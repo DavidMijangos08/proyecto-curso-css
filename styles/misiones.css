@@ -1,0 +1,29 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin-top: 10px;
+    border-collapse: collapse;
+    border: 2px solid gray;
+    letter-spacing: 1px;
+    font-size: 1.1rem;
+    background-color: white;
+}
+
+th{
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: #424242;
+}
+
+td{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+h2{
+    margin: 0;
+    padding: 20px;
+}
